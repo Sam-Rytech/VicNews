@@ -5,14 +5,10 @@ export default function Hero() {
         {/* Main News */}
         <div className="lg:col-span-2">
           <img
-            src="/hero-main.jpg"
+            src="/Head.png"
             alt="Main News"
-            className="w-full h-80 object-cover rounded-md"
+            className="w-full h-100 object-cover rounded-md"
           />
-          <h2 className="text-2xl font-bold mt-4">
-            Democrats Overhaul Party’s Primary Calendar, Upending a Political
-            Tradition
-          </h2>
           <p className="text-sm text-gray-300 mt-2">
             By Amy Greene | Jan 1, 2024
           </p>
