@@ -2,12 +2,10 @@
 
 import Navbar from '@/components/Navbar'
 import Hero from '@/components/Hero'
-import Services from '@/components/Services'
-import Destinations from '@/components/Destinations'
-import Steps from '@/components/Steps'
-import Testimonials from '@/components/Testimonials'
-import Companies from '@/components/Companies'
-import CTASection from '@/components/CTASection'
+import Categories from '@/components/Categories'
+import FeaturedNews from '@/components/FeaturedNews'
+import LatestNews from '@/components/LatestNews'
+import TrendingHeadlines from '@/components/TrendingHeadlines'
 import Footer from '@/components/Footer'
 
 export default function HomePage() {
