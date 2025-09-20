@@ -1,22 +1,15 @@
 export default function LatestNews() {
   const news = [
     {
-      title:
-        '10 Ways to Streamline Meal Prep for More Efficient Weeknight Cooking',
       image: '/Frame-8.png',
     },
     {
-      title:
-        'Oil Price Slip Again as Spectre of Trade War, Demand Concerns Haunts Market',
       image: '/Frame-10.png',
     },
     {
-      title:
-        'Europeans Are the World’s Heaviest Drinkers: How Do Countries Compare?',
       image: '/Frame-11.png',
     },
     {
-      title: 'A ‘De-Extinction’ Company Wants to Bring Back the Dodo',
       image: '/Frame-12.png',
     },
   ]
@@ -30,7 +23,7 @@ export default function LatestNews() {
             <img
               src={item.image}
               alt={item.title}
-              className="w-full h-56 object-cover rounded-md"
+              className="w-90 h-100 object-cover rounded-md"
             />
             <h3 className="text-lg font-semibold mt-2">{item.title}</h3>
           </div>
