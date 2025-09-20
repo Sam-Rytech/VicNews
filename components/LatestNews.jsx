@@ -17,7 +17,7 @@ export default function LatestNews() {
     },
     {
       title: 'A ‘De-Extinction’ Company Wants to Bring Back the Dodo',
-      image: '/news-4.jpg',
+      image: '/Frame-12.png',
     },
   ]
 
