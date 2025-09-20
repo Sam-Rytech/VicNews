@@ -3,7 +3,7 @@ export default function LatestNews() {
     {
       title:
         '10 Ways to Streamline Meal Prep for More Efficient Weeknight Cooking',
-      image: '/news-1.jpg',
+      image: '/Frame-8.png',
     },
     {
       title:
