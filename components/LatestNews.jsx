@@ -13,7 +13,7 @@ export default function LatestNews() {
     {
       title:
         'Europeans Are the World’s Heaviest Drinkers: How Do Countries Compare?',
-      image: '/news-3.jpg',
+      image: '/Frame-11.png',
     },
     {
       title: 'A ‘De-Extinction’ Company Wants to Bring Back the Dodo',
