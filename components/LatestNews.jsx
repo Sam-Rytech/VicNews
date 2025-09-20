@@ -8,7 +8,7 @@ export default function LatestNews() {
     {
       title:
         'Oil Price Slip Again as Spectre of Trade War, Demand Concerns Haunts Market',
-      image: '/news-2.jpg',
+      image: '/Frame-10.png',
     },
     {
       title:
