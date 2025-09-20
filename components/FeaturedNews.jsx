@@ -5,24 +5,17 @@ export default function FeaturedNews() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <div>
           <img
-            src="/featured-1.jpg"
+            src="/LI.png"
             alt="News"
-            className="w-full h-64 object-cover rounded-md"
+            className="w-full h-70 object-cover rounded-md"
           />
-          <h3 className="text-lg font-semibold mt-2">
-            London to Istanbul by Train: This 10-day Rail Adventure is a Slow
-            Traveller’s Dream
-          </h3>
         </div>
         <div>
           <img
-            src="/featured-2.jpg"
+            src="/Frame-6.png"
             alt="News"
-            className="w-full h-64 object-cover rounded-md"
+            className="w-full h-70 object-cover rounded-md"
           />
-          <h3 className="text-lg font-semibold mt-2">
-            More Airports to Use Greener ‘Glide’ Approach to Landing
-          </h3>
         </div>
       </div>
     </section>
